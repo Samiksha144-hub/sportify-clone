@@ -1,2 +1,2 @@
-# sportify-clone
+# sportify
 preactice mini project
